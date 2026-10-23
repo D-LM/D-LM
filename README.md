@@ -4,31 +4,40 @@
   </a>
 </div>
 
-## 👨‍💻 About Me & Currently:
+## About Me & Currently:
 - Working as a Software Developer at **Four Clicks srl** *(since Sept 2024)*
-- 3rd-year **Computer Science (Informatica)** student at **Università degli Studi di Salerno (UNISA)**
+- 3rd-year **Computer Science** student at **Università degli Studi di Salerno (UNISA)**
 - Exploring the **Cybersecurity** world & planning to pursue an **M.Sc. in Cybersecurity (LM-66)** next year
 - **Up to:** Learning **Rust**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-<div align="center">
-  <!-- Griglia principale con Skillicons (22 icone divise su 2 righe da 11) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css,angular,spring,django,fastapi,postgres,mysql,sqlite,docker,git,github,gitlab,regex,latex&perline=11" alt="My Skills" />
-  </a>
-  <br /><br />
-  <!-- Badge aggiuntivi per framework non presenti su Skillicons -->
+### Main Stack (Daily Drivers)
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
-  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white" alt="PrimeNG" />
-  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
+
+<br />
+
+### Categorized Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp,php" height="38" alt="Languages" /> |
+| **Frontend & UI Libraries** | <img src="https://skillicons.dev/icons?i=angular,html,css" height="38" alt="Frontend" /> <br/> <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=primeng&logoColor=white" alt="PrimeNG" /> <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white" alt="Angular Material" /> |
+| **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=django,spring,fastapi" height="38" alt="Backend" /> <br/> <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" /> |
+| **Databases & Admin** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="38" alt="Databases" /> <br/> <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" /> |
+| **DevOps, IDEs & Tools** | <img src="https://skillicons.dev/icons?i=docker,idea,pycharm,postman,git,github,gitlab,regex,latex" height="38" alt="Tools" /> |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-LM&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
@@ -37,7 +46,7 @@
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/davide-la-magna/" target="_blank">
