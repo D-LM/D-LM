@@ -1,10 +1,7 @@
 <div align="center">
-
-<a href="https://youtu.be/eaEMSKzqGAg"> <img src="https://capsule-render.vercel.app /api?type=waving&color=timeGradient&text= Hello%20There!&height=200&section=header &fontColor=ffffff&fontSize=50&animation= fadeln&desc=I'm%20Davide%20La%20Magna &descAlignY=70&descSize=25" width="100%" alt="Banner" />
-
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Davide%20La%20Magna&height=200&section=header&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Software%20Developer%20-%20Computer%20Science%20Student&descAlignY=70&descSize=20" width="100%" alt="Banner" />
 </div>
+
 
 ### About Me
 - **Software Developer** at **Four Clicks srl** *(Sept 2024 – Present)* — building full-stack web applications with Angular, Quarkus, Django, and PostgreSQL.
